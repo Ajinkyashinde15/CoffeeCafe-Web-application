@@ -1,6 +1,12 @@
 # CoffeeCafe-Web-application
 A jQuery Mobile web application which will help them sell coffee to staff who work in local businesses. It concept is to have a coffee ordering app which has a quick and simple ordering process, allowing customers to order from their phone no matter where they currently are.
 
+Technologies Used:-
+•	jQuery Mobile
+•	JavaScript
+•	HTML / PHP
+•	SQL
+
 Account Types
 The web application will have two different account types:
 •	Customer: A customer can register and then log into the system to place an order
@@ -32,6 +38,11 @@ Specific Requirements
 
 •	The database structure should be designed and implemented ensuring that each record can be easily identified if a single order needs to be referenced (Primary key, Auto Increment).
 
+![Welcome Screen](https://github.com/Ajinkyashinde15/CoffeeCafe-Web-application/blob/master/1.PNG)
+
+![Register](https://github.com/Ajinkyashinde15/CoffeeCafe-Web-application/blob/master/2.PNG)
+
+![What Specia](https://github.com/Ajinkyashinde15/CoffeeCafe-Web-application/blob/master/3.PNG)
 
 
 
